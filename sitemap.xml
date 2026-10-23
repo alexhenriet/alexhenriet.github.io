@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alex.henriet.eu/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alex.henriet.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alex.henriet.eu/en/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://alex.henriet.eu/nl/"/>
+  </url>
+  <url>
+    <loc>https://alex.henriet.eu/en/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alex.henriet.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alex.henriet.eu/en/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://alex.henriet.eu/nl/"/>
+  </url>
+  <url>
+    <loc>https://alex.henriet.eu/nl/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alex.henriet.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alex.henriet.eu/en/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://alex.henriet.eu/nl/"/>
+  </url>
+  <url>
+    <loc>https://alex.henriet.eu/mentions-legales/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alex.henriet.eu/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alex.henriet.eu/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://alex.henriet.eu/nl/wettelijke-vermeldingen/"/>
+  </url>
+  <url>
+    <loc>https://alex.henriet.eu/en/legal-notice/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alex.henriet.eu/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alex.henriet.eu/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://alex.henriet.eu/nl/wettelijke-vermeldingen/"/>
+  </url>
+  <url>
+    <loc>https://alex.henriet.eu/nl/wettelijke-vermeldingen/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alex.henriet.eu/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alex.henriet.eu/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://alex.henriet.eu/nl/wettelijke-vermeldingen/"/>
+  </url>
+</urlset>
